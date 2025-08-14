@@ -10,7 +10,7 @@ O objetivo deste projeto foi praticar HTML e CSS, criando uma interface fiel ao 
 - CSS3
 
 ## 📸 Preview
-![Prévia da tela]((img/preview.png)
+(img/preview.png)
 
 ## 📚 Aprendizados
 - Estruturação semântica do HTML
