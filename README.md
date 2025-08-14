@@ -1,4 +1,4 @@
-# Tela apresentacão profossional
+# Tela apresentacão profissional
 
 Este projeto é uma apresentacão profissional de uma desenvolvedora front-end, desenvolvida durante as aulas de Front-end na [Alura](https://www.alura.com.br/).
 
